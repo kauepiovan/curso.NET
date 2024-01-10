@@ -1,0 +1,15 @@
+C:\Dev\cursoDOTNET\CSFundamentos1\NullableTypes\bin\Debug\net8.0\NullableTypes.exe
+C:\Dev\cursoDOTNET\CSFundamentos1\NullableTypes\bin\Debug\net8.0\NullableTypes.deps.json
+C:\Dev\cursoDOTNET\CSFundamentos1\NullableTypes\bin\Debug\net8.0\NullableTypes.runtimeconfig.json
+C:\Dev\cursoDOTNET\CSFundamentos1\NullableTypes\bin\Debug\net8.0\NullableTypes.dll
+C:\Dev\cursoDOTNET\CSFundamentos1\NullableTypes\bin\Debug\net8.0\NullableTypes.pdb
+C:\Dev\cursoDOTNET\CSFundamentos1\NullableTypes\obj\Debug\net8.0\NullableTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\cursoDOTNET\CSFundamentos1\NullableTypes\obj\Debug\net8.0\NullableTypes.AssemblyInfoInputs.cache
+C:\Dev\cursoDOTNET\CSFundamentos1\NullableTypes\obj\Debug\net8.0\NullableTypes.AssemblyInfo.cs
+C:\Dev\cursoDOTNET\CSFundamentos1\NullableTypes\obj\Debug\net8.0\NullableTypes.csproj.CoreCompileInputs.cache
+C:\Dev\cursoDOTNET\CSFundamentos1\NullableTypes\obj\Debug\net8.0\NullableTypes.sourcelink.json
+C:\Dev\cursoDOTNET\CSFundamentos1\NullableTypes\obj\Debug\net8.0\NullableTypes.dll
+C:\Dev\cursoDOTNET\CSFundamentos1\NullableTypes\obj\Debug\net8.0\refint\NullableTypes.dll
+C:\Dev\cursoDOTNET\CSFundamentos1\NullableTypes\obj\Debug\net8.0\NullableTypes.pdb
+C:\Dev\cursoDOTNET\CSFundamentos1\NullableTypes\obj\Debug\net8.0\NullableTypes.genruntimeconfig.cache
+C:\Dev\cursoDOTNET\CSFundamentos1\NullableTypes\obj\Debug\net8.0\ref\NullableTypes.dll

@@ -1,0 +1,15 @@
+C:\Dev\cursoDOTNET\CSFundamentos1\TipoDateTime\bin\Debug\net8.0\TipoDateTime.exe
+C:\Dev\cursoDOTNET\CSFundamentos1\TipoDateTime\bin\Debug\net8.0\TipoDateTime.deps.json
+C:\Dev\cursoDOTNET\CSFundamentos1\TipoDateTime\bin\Debug\net8.0\TipoDateTime.runtimeconfig.json
+C:\Dev\cursoDOTNET\CSFundamentos1\TipoDateTime\bin\Debug\net8.0\TipoDateTime.dll
+C:\Dev\cursoDOTNET\CSFundamentos1\TipoDateTime\bin\Debug\net8.0\TipoDateTime.pdb
+C:\Dev\cursoDOTNET\CSFundamentos1\TipoDateTime\obj\Debug\net8.0\TipoDateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\cursoDOTNET\CSFundamentos1\TipoDateTime\obj\Debug\net8.0\TipoDateTime.AssemblyInfoInputs.cache
+C:\Dev\cursoDOTNET\CSFundamentos1\TipoDateTime\obj\Debug\net8.0\TipoDateTime.AssemblyInfo.cs
+C:\Dev\cursoDOTNET\CSFundamentos1\TipoDateTime\obj\Debug\net8.0\TipoDateTime.csproj.CoreCompileInputs.cache
+C:\Dev\cursoDOTNET\CSFundamentos1\TipoDateTime\obj\Debug\net8.0\TipoDateTime.sourcelink.json
+C:\Dev\cursoDOTNET\CSFundamentos1\TipoDateTime\obj\Debug\net8.0\TipoDateTime.dll
+C:\Dev\cursoDOTNET\CSFundamentos1\TipoDateTime\obj\Debug\net8.0\refint\TipoDateTime.dll
+C:\Dev\cursoDOTNET\CSFundamentos1\TipoDateTime\obj\Debug\net8.0\TipoDateTime.pdb
+C:\Dev\cursoDOTNET\CSFundamentos1\TipoDateTime\obj\Debug\net8.0\TipoDateTime.genruntimeconfig.cache
+C:\Dev\cursoDOTNET\CSFundamentos1\TipoDateTime\obj\Debug\net8.0\ref\TipoDateTime.dll
