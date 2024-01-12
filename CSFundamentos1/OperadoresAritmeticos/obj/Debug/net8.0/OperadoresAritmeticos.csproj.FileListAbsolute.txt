@@ -1,0 +1,15 @@
+C:\Dev\cursoDOTNET\CSFundamentos1\OperadoresAritmeticos\bin\Debug\net8.0\OperadoresAritmeticos.exe
+C:\Dev\cursoDOTNET\CSFundamentos1\OperadoresAritmeticos\bin\Debug\net8.0\OperadoresAritmeticos.deps.json
+C:\Dev\cursoDOTNET\CSFundamentos1\OperadoresAritmeticos\bin\Debug\net8.0\OperadoresAritmeticos.runtimeconfig.json
+C:\Dev\cursoDOTNET\CSFundamentos1\OperadoresAritmeticos\bin\Debug\net8.0\OperadoresAritmeticos.dll
+C:\Dev\cursoDOTNET\CSFundamentos1\OperadoresAritmeticos\bin\Debug\net8.0\OperadoresAritmeticos.pdb
+C:\Dev\cursoDOTNET\CSFundamentos1\OperadoresAritmeticos\obj\Debug\net8.0\OperadoresAritmeticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\cursoDOTNET\CSFundamentos1\OperadoresAritmeticos\obj\Debug\net8.0\OperadoresAritmeticos.AssemblyInfoInputs.cache
+C:\Dev\cursoDOTNET\CSFundamentos1\OperadoresAritmeticos\obj\Debug\net8.0\OperadoresAritmeticos.AssemblyInfo.cs
+C:\Dev\cursoDOTNET\CSFundamentos1\OperadoresAritmeticos\obj\Debug\net8.0\OperadoresAritmeticos.csproj.CoreCompileInputs.cache
+C:\Dev\cursoDOTNET\CSFundamentos1\OperadoresAritmeticos\obj\Debug\net8.0\OperadoresAritmeticos.sourcelink.json
+C:\Dev\cursoDOTNET\CSFundamentos1\OperadoresAritmeticos\obj\Debug\net8.0\OperadoresAritmeticos.dll
+C:\Dev\cursoDOTNET\CSFundamentos1\OperadoresAritmeticos\obj\Debug\net8.0\refint\OperadoresAritmeticos.dll
+C:\Dev\cursoDOTNET\CSFundamentos1\OperadoresAritmeticos\obj\Debug\net8.0\OperadoresAritmeticos.pdb
+C:\Dev\cursoDOTNET\CSFundamentos1\OperadoresAritmeticos\obj\Debug\net8.0\OperadoresAritmeticos.genruntimeconfig.cache
+C:\Dev\cursoDOTNET\CSFundamentos1\OperadoresAritmeticos\obj\Debug\net8.0\ref\OperadoresAritmeticos.dll
