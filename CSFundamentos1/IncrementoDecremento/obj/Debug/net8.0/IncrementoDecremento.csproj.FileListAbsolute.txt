@@ -1,0 +1,15 @@
+C:\Dev\cursoDOTNET\CSFundamentos1\IncrementoDecremento\bin\Debug\net8.0\IncrementoDecremento.exe
+C:\Dev\cursoDOTNET\CSFundamentos1\IncrementoDecremento\bin\Debug\net8.0\IncrementoDecremento.deps.json
+C:\Dev\cursoDOTNET\CSFundamentos1\IncrementoDecremento\bin\Debug\net8.0\IncrementoDecremento.runtimeconfig.json
+C:\Dev\cursoDOTNET\CSFundamentos1\IncrementoDecremento\bin\Debug\net8.0\IncrementoDecremento.dll
+C:\Dev\cursoDOTNET\CSFundamentos1\IncrementoDecremento\bin\Debug\net8.0\IncrementoDecremento.pdb
+C:\Dev\cursoDOTNET\CSFundamentos1\IncrementoDecremento\obj\Debug\net8.0\IncrementoDecremento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\cursoDOTNET\CSFundamentos1\IncrementoDecremento\obj\Debug\net8.0\IncrementoDecremento.AssemblyInfoInputs.cache
+C:\Dev\cursoDOTNET\CSFundamentos1\IncrementoDecremento\obj\Debug\net8.0\IncrementoDecremento.AssemblyInfo.cs
+C:\Dev\cursoDOTNET\CSFundamentos1\IncrementoDecremento\obj\Debug\net8.0\IncrementoDecremento.csproj.CoreCompileInputs.cache
+C:\Dev\cursoDOTNET\CSFundamentos1\IncrementoDecremento\obj\Debug\net8.0\IncrementoDecremento.sourcelink.json
+C:\Dev\cursoDOTNET\CSFundamentos1\IncrementoDecremento\obj\Debug\net8.0\IncrementoDecremento.dll
+C:\Dev\cursoDOTNET\CSFundamentos1\IncrementoDecremento\obj\Debug\net8.0\refint\IncrementoDecremento.dll
+C:\Dev\cursoDOTNET\CSFundamentos1\IncrementoDecremento\obj\Debug\net8.0\IncrementoDecremento.pdb
+C:\Dev\cursoDOTNET\CSFundamentos1\IncrementoDecremento\obj\Debug\net8.0\IncrementoDecremento.genruntimeconfig.cache
+C:\Dev\cursoDOTNET\CSFundamentos1\IncrementoDecremento\obj\Debug\net8.0\ref\IncrementoDecremento.dll

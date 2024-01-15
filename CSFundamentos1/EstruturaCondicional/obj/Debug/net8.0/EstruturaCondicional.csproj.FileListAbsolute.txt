@@ -1,0 +1,15 @@
+C:\Dev\cursoDOTNET\CSFundamentos1\EstruturaCondicional\bin\Debug\net8.0\EstruturaCondicional.exe
+C:\Dev\cursoDOTNET\CSFundamentos1\EstruturaCondicional\bin\Debug\net8.0\EstruturaCondicional.deps.json
+C:\Dev\cursoDOTNET\CSFundamentos1\EstruturaCondicional\bin\Debug\net8.0\EstruturaCondicional.runtimeconfig.json
+C:\Dev\cursoDOTNET\CSFundamentos1\EstruturaCondicional\bin\Debug\net8.0\EstruturaCondicional.dll
+C:\Dev\cursoDOTNET\CSFundamentos1\EstruturaCondicional\bin\Debug\net8.0\EstruturaCondicional.pdb
+C:\Dev\cursoDOTNET\CSFundamentos1\EstruturaCondicional\obj\Debug\net8.0\EstruturaCondicional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\cursoDOTNET\CSFundamentos1\EstruturaCondicional\obj\Debug\net8.0\EstruturaCondicional.AssemblyInfoInputs.cache
+C:\Dev\cursoDOTNET\CSFundamentos1\EstruturaCondicional\obj\Debug\net8.0\EstruturaCondicional.AssemblyInfo.cs
+C:\Dev\cursoDOTNET\CSFundamentos1\EstruturaCondicional\obj\Debug\net8.0\EstruturaCondicional.csproj.CoreCompileInputs.cache
+C:\Dev\cursoDOTNET\CSFundamentos1\EstruturaCondicional\obj\Debug\net8.0\EstruturaCondicional.sourcelink.json
+C:\Dev\cursoDOTNET\CSFundamentos1\EstruturaCondicional\obj\Debug\net8.0\EstruturaCondicional.dll
+C:\Dev\cursoDOTNET\CSFundamentos1\EstruturaCondicional\obj\Debug\net8.0\refint\EstruturaCondicional.dll
+C:\Dev\cursoDOTNET\CSFundamentos1\EstruturaCondicional\obj\Debug\net8.0\EstruturaCondicional.pdb
+C:\Dev\cursoDOTNET\CSFundamentos1\EstruturaCondicional\obj\Debug\net8.0\EstruturaCondicional.genruntimeconfig.cache
+C:\Dev\cursoDOTNET\CSFundamentos1\EstruturaCondicional\obj\Debug\net8.0\ref\EstruturaCondicional.dll

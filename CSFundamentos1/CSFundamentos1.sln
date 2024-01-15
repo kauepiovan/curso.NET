@@ -41,6 +41,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullableReferenceType", "Nu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadoresUniariosTernarios", "OperadoresUniariosTernarios\OperadoresUniariosTernarios.csproj", "{35BD52C0-F513-4F48-84E3-D3D20E50E41B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstruturaCondicional", "EstruturaCondicional\EstruturaCondicional.csproj", "{16E8AE6C-BDE4-4CC9-B68A-4B1838DE3190}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstruturaCondicional1", "EstruturaCondicional1\EstruturaCondicional1.csproj", "{51C90AB5-AC92-47A7-9F97-998305B79A91}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +127,14 @@ Global
 		{35BD52C0-F513-4F48-84E3-D3D20E50E41B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{35BD52C0-F513-4F48-84E3-D3D20E50E41B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{35BD52C0-F513-4F48-84E3-D3D20E50E41B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16E8AE6C-BDE4-4CC9-B68A-4B1838DE3190}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16E8AE6C-BDE4-4CC9-B68A-4B1838DE3190}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16E8AE6C-BDE4-4CC9-B68A-4B1838DE3190}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16E8AE6C-BDE4-4CC9-B68A-4B1838DE3190}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51C90AB5-AC92-47A7-9F97-998305B79A91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51C90AB5-AC92-47A7-9F97-998305B79A91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51C90AB5-AC92-47A7-9F97-998305B79A91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51C90AB5-AC92-47A7-9F97-998305B79A91}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

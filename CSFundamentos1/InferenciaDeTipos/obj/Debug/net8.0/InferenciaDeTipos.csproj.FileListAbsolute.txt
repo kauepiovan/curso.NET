@@ -1,0 +1,15 @@
+C:\Dev\cursoDOTNET\CSFundamentos1\InferenciaDeTipos\bin\Debug\net8.0\InferenciaDeTipos.exe
+C:\Dev\cursoDOTNET\CSFundamentos1\InferenciaDeTipos\bin\Debug\net8.0\InferenciaDeTipos.deps.json
+C:\Dev\cursoDOTNET\CSFundamentos1\InferenciaDeTipos\bin\Debug\net8.0\InferenciaDeTipos.runtimeconfig.json
+C:\Dev\cursoDOTNET\CSFundamentos1\InferenciaDeTipos\bin\Debug\net8.0\InferenciaDeTipos.dll
+C:\Dev\cursoDOTNET\CSFundamentos1\InferenciaDeTipos\bin\Debug\net8.0\InferenciaDeTipos.pdb
+C:\Dev\cursoDOTNET\CSFundamentos1\InferenciaDeTipos\obj\Debug\net8.0\InferenciaDeTipos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\cursoDOTNET\CSFundamentos1\InferenciaDeTipos\obj\Debug\net8.0\InferenciaDeTipos.AssemblyInfoInputs.cache
+C:\Dev\cursoDOTNET\CSFundamentos1\InferenciaDeTipos\obj\Debug\net8.0\InferenciaDeTipos.AssemblyInfo.cs
+C:\Dev\cursoDOTNET\CSFundamentos1\InferenciaDeTipos\obj\Debug\net8.0\InferenciaDeTipos.csproj.CoreCompileInputs.cache
+C:\Dev\cursoDOTNET\CSFundamentos1\InferenciaDeTipos\obj\Debug\net8.0\InferenciaDeTipos.sourcelink.json
+C:\Dev\cursoDOTNET\CSFundamentos1\InferenciaDeTipos\obj\Debug\net8.0\InferenciaDeTipos.dll
+C:\Dev\cursoDOTNET\CSFundamentos1\InferenciaDeTipos\obj\Debug\net8.0\refint\InferenciaDeTipos.dll
+C:\Dev\cursoDOTNET\CSFundamentos1\InferenciaDeTipos\obj\Debug\net8.0\InferenciaDeTipos.pdb
+C:\Dev\cursoDOTNET\CSFundamentos1\InferenciaDeTipos\obj\Debug\net8.0\InferenciaDeTipos.genruntimeconfig.cache
+C:\Dev\cursoDOTNET\CSFundamentos1\InferenciaDeTipos\obj\Debug\net8.0\ref\InferenciaDeTipos.dll
