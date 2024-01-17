@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstruturaCondicional3", "Es
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstruturaCondicional4", "EstruturaCondicional4\EstruturaCondicional4.csproj", "{66C28378-326F-4C99-9F1F-53BA39395B87}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstruturaRepeticao", "EstruturaRepeticao\EstruturaRepeticao.csproj", "{B9D43297-7D72-4FF4-A8BF-963BADEA2692}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{66C28378-326F-4C99-9F1F-53BA39395B87}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{66C28378-326F-4C99-9F1F-53BA39395B87}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{66C28378-326F-4C99-9F1F-53BA39395B87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9D43297-7D72-4FF4-A8BF-963BADEA2692}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9D43297-7D72-4FF4-A8BF-963BADEA2692}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9D43297-7D72-4FF4-A8BF-963BADEA2692}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9D43297-7D72-4FF4-A8BF-963BADEA2692}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

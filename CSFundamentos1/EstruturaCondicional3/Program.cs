@@ -20,7 +20,7 @@ switch (parcelas)
         Console.WriteLine("Insira um valor valido de 1 a 3");
         break;
 }
-Console.WriteLine("fim do program");
+Console.WriteLine("fim do programa");
 
 
 // par ou impar com switch
