@@ -1,0 +1,15 @@
+C:\Dev\CursoDotNet\Exercicios\Ex009\bin\Debug\net8.0\Ex009.exe
+C:\Dev\CursoDotNet\Exercicios\Ex009\bin\Debug\net8.0\Ex009.deps.json
+C:\Dev\CursoDotNet\Exercicios\Ex009\bin\Debug\net8.0\Ex009.runtimeconfig.json
+C:\Dev\CursoDotNet\Exercicios\Ex009\bin\Debug\net8.0\Ex009.dll
+C:\Dev\CursoDotNet\Exercicios\Ex009\bin\Debug\net8.0\Ex009.pdb
+C:\Dev\CursoDotNet\Exercicios\Ex009\obj\Debug\net8.0\Ex009.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\CursoDotNet\Exercicios\Ex009\obj\Debug\net8.0\Ex009.AssemblyInfoInputs.cache
+C:\Dev\CursoDotNet\Exercicios\Ex009\obj\Debug\net8.0\Ex009.AssemblyInfo.cs
+C:\Dev\CursoDotNet\Exercicios\Ex009\obj\Debug\net8.0\Ex009.csproj.CoreCompileInputs.cache
+C:\Dev\CursoDotNet\Exercicios\Ex009\obj\Debug\net8.0\Ex009.sourcelink.json
+C:\Dev\CursoDotNet\Exercicios\Ex009\obj\Debug\net8.0\Ex009.dll
+C:\Dev\CursoDotNet\Exercicios\Ex009\obj\Debug\net8.0\refint\Ex009.dll
+C:\Dev\CursoDotNet\Exercicios\Ex009\obj\Debug\net8.0\Ex009.pdb
+C:\Dev\CursoDotNet\Exercicios\Ex009\obj\Debug\net8.0\Ex009.genruntimeconfig.cache
+C:\Dev\CursoDotNet\Exercicios\Ex009\obj\Debug\net8.0\ref\Ex009.dll
