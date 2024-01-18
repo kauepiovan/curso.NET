@@ -1,0 +1,15 @@
+C:\Dev\CursoDotNet\CSFundamentos1\EstruturaRepeticao2\bin\Debug\net8.0\EstruturaRepeticao2.exe
+C:\Dev\CursoDotNet\CSFundamentos1\EstruturaRepeticao2\bin\Debug\net8.0\EstruturaRepeticao2.deps.json
+C:\Dev\CursoDotNet\CSFundamentos1\EstruturaRepeticao2\bin\Debug\net8.0\EstruturaRepeticao2.runtimeconfig.json
+C:\Dev\CursoDotNet\CSFundamentos1\EstruturaRepeticao2\bin\Debug\net8.0\EstruturaRepeticao2.dll
+C:\Dev\CursoDotNet\CSFundamentos1\EstruturaRepeticao2\bin\Debug\net8.0\EstruturaRepeticao2.pdb
+C:\Dev\CursoDotNet\CSFundamentos1\EstruturaRepeticao2\obj\Debug\net8.0\EstruturaRepeticao2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\CursoDotNet\CSFundamentos1\EstruturaRepeticao2\obj\Debug\net8.0\EstruturaRepeticao2.AssemblyInfoInputs.cache
+C:\Dev\CursoDotNet\CSFundamentos1\EstruturaRepeticao2\obj\Debug\net8.0\EstruturaRepeticao2.AssemblyInfo.cs
+C:\Dev\CursoDotNet\CSFundamentos1\EstruturaRepeticao2\obj\Debug\net8.0\EstruturaRepeticao2.csproj.CoreCompileInputs.cache
+C:\Dev\CursoDotNet\CSFundamentos1\EstruturaRepeticao2\obj\Debug\net8.0\EstruturaRepeticao2.sourcelink.json
+C:\Dev\CursoDotNet\CSFundamentos1\EstruturaRepeticao2\obj\Debug\net8.0\EstruturaRepeticao2.dll
+C:\Dev\CursoDotNet\CSFundamentos1\EstruturaRepeticao2\obj\Debug\net8.0\refint\EstruturaRepeticao2.dll
+C:\Dev\CursoDotNet\CSFundamentos1\EstruturaRepeticao2\obj\Debug\net8.0\EstruturaRepeticao2.pdb
+C:\Dev\CursoDotNet\CSFundamentos1\EstruturaRepeticao2\obj\Debug\net8.0\EstruturaRepeticao2.genruntimeconfig.cache
+C:\Dev\CursoDotNet\CSFundamentos1\EstruturaRepeticao2\obj\Debug\net8.0\ref\EstruturaRepeticao2.dll
