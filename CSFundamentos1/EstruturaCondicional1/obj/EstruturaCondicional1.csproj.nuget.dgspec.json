@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Dev\\cursoDOTNET\\CSFundamentos1\\EstruturaCondicional1\\EstruturaCondicional1.csproj": {}
+    "C:\\Dev\\CursoDotNet\\CSFundamentos1\\EstruturaCondicional1\\EstruturaCondicional1.csproj": {}
   },
   "projects": {
-    "C:\\Dev\\cursoDOTNET\\CSFundamentos1\\EstruturaCondicional1\\EstruturaCondicional1.csproj": {
+    "C:\\Dev\\CursoDotNet\\CSFundamentos1\\EstruturaCondicional1\\EstruturaCondicional1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dev\\cursoDOTNET\\CSFundamentos1\\EstruturaCondicional1\\EstruturaCondicional1.csproj",
+        "projectUniqueName": "C:\\Dev\\CursoDotNet\\CSFundamentos1\\EstruturaCondicional1\\EstruturaCondicional1.csproj",
         "projectName": "EstruturaCondicional1",
-        "projectPath": "C:\\Dev\\cursoDOTNET\\CSFundamentos1\\EstruturaCondicional1\\EstruturaCondicional1.csproj",
+        "projectPath": "C:\\Dev\\CursoDotNet\\CSFundamentos1\\EstruturaCondicional1\\EstruturaCondicional1.csproj",
         "packagesPath": "C:\\Users\\Kaue\\.nuget\\packages\\",
-        "outputPath": "C:\\Dev\\cursoDOTNET\\CSFundamentos1\\EstruturaCondicional1\\obj\\",
+        "outputPath": "C:\\Dev\\CursoDotNet\\CSFundamentos1\\EstruturaCondicional1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

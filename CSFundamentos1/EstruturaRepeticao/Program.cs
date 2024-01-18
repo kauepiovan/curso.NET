@@ -16,6 +16,7 @@ if (i <= 10)
 Console.WriteLine("Fim da repetição goto.");
 
 
+
 // laço de repetição usando WHILE
 
 Console.WriteLine("Estrutura de repetição While");
@@ -34,6 +35,8 @@ while (i >= 10) // condição que ira checar
     i--; // decremento
 }
 Console.WriteLine("Fim do laço de repetição while.");
+
+
 
 while (true)
 {
@@ -58,6 +61,8 @@ while (true)
 }
 Console.WriteLine("programa finalizado");
 
+
+
 // while aninhado
 int x = 0, y = 0;
 while (x <= 5)
@@ -71,6 +76,7 @@ while (x <= 5)
     y = 0;
     x++;
 }
+
 
 
 // tabuada de um numero usando while
@@ -98,6 +104,8 @@ else
 }
 Console.WriteLine("Fim do programa tabuada");
 
+
+
 // estrutura de repetição do while
 i = 0;
 do // executa pelo menos 1 vez o laco de repeticao
@@ -110,7 +118,11 @@ do // executa pelo menos 1 vez o laco de repeticao
     }
 }
 while (i <= 10); // verifica a condicao de repeticao (somente no final da execucao do bloco de codigo)
+
+
+
 // do while aninhado
+Console.WriteLine("Fim do programa");
 
 x = 0;
 do
@@ -126,3 +138,4 @@ do
     x++;
 }
 while (x <= 5);
+Console.WriteLine("Fim do programa");

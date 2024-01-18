@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Dev\\cursoDOTNET\\CSFundamentos1\\OperadoresLogicos\\OperadoresLogicos.csproj": {}
+    "C:\\Dev\\CursoDotNet\\CSFundamentos1\\OperadoresLogicos\\OperadoresLogicos.csproj": {}
   },
   "projects": {
-    "C:\\Dev\\cursoDOTNET\\CSFundamentos1\\OperadoresLogicos\\OperadoresLogicos.csproj": {
+    "C:\\Dev\\CursoDotNet\\CSFundamentos1\\OperadoresLogicos\\OperadoresLogicos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dev\\cursoDOTNET\\CSFundamentos1\\OperadoresLogicos\\OperadoresLogicos.csproj",
+        "projectUniqueName": "C:\\Dev\\CursoDotNet\\CSFundamentos1\\OperadoresLogicos\\OperadoresLogicos.csproj",
         "projectName": "OperadoresLogicos",
-        "projectPath": "C:\\Dev\\cursoDOTNET\\CSFundamentos1\\OperadoresLogicos\\OperadoresLogicos.csproj",
+        "projectPath": "C:\\Dev\\CursoDotNet\\CSFundamentos1\\OperadoresLogicos\\OperadoresLogicos.csproj",
         "packagesPath": "C:\\Users\\Kaue\\.nuget\\packages\\",
-        "outputPath": "C:\\Dev\\cursoDOTNET\\CSFundamentos1\\OperadoresLogicos\\obj\\",
+        "outputPath": "C:\\Dev\\CursoDotNet\\CSFundamentos1\\OperadoresLogicos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

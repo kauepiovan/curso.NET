@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Dev\\cursoDOTNET\\CSFundamentos1\\EstruturaRepeticao\\EstruturaRepeticao.csproj": {}
+    "C:\\Dev\\CursoDotNet\\CSFundamentos1\\EstruturaRepeticao\\EstruturaRepeticao.csproj": {}
   },
   "projects": {
-    "C:\\Dev\\cursoDOTNET\\CSFundamentos1\\EstruturaRepeticao\\EstruturaRepeticao.csproj": {
+    "C:\\Dev\\CursoDotNet\\CSFundamentos1\\EstruturaRepeticao\\EstruturaRepeticao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dev\\cursoDOTNET\\CSFundamentos1\\EstruturaRepeticao\\EstruturaRepeticao.csproj",
+        "projectUniqueName": "C:\\Dev\\CursoDotNet\\CSFundamentos1\\EstruturaRepeticao\\EstruturaRepeticao.csproj",
         "projectName": "EstruturaRepeticao",
-        "projectPath": "C:\\Dev\\cursoDOTNET\\CSFundamentos1\\EstruturaRepeticao\\EstruturaRepeticao.csproj",
+        "projectPath": "C:\\Dev\\CursoDotNet\\CSFundamentos1\\EstruturaRepeticao\\EstruturaRepeticao.csproj",
         "packagesPath": "C:\\Users\\Kaue\\.nuget\\packages\\",
-        "outputPath": "C:\\Dev\\cursoDOTNET\\CSFundamentos1\\EstruturaRepeticao\\obj\\",
+        "outputPath": "C:\\Dev\\CursoDotNet\\CSFundamentos1\\EstruturaRepeticao\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

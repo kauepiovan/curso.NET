@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0HOUBOXcA6rRPEAU8cZx7T/hHAFzQai3Sn3u7UVd5T05ZJtV5PFP8csWYE8FYNafbOOe+PrN+GjofWJJijurkQ==",
+  "dgSpecHash": "dKeIc572TiFFcZ7RuOV49sE/8+ZX+9RHMpE7SBMJsTokgoKdEr45iMzdWNaxJAcCl3BesWY1Y2Xgfm54xYgmTg==",
   "success": true,
-  "projectFilePath": "C:\\Dev\\cursoDOTNET\\CSFundamentos1\\TipoDateTime\\TipoDateTime.csproj",
+  "projectFilePath": "C:\\Dev\\CursoDotNet\\CSFundamentos1\\TipoDateTime\\TipoDateTime.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

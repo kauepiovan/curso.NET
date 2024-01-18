@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "e7Jwi8H6HfFs7siICKhPuf0+a+kGV2xVOceGp3VV4FJu3PVT5Hb85K3jldlYk6TFGq3Hjg0DRQZuvKVusq+Aug==",
+  "dgSpecHash": "JTB1gng04i1CdorKsI9Tvxas1dwjrzTLYemcNn0+qLOTvUTW1GgGilL2TaBjcP2gIC9bHN3NrJAbhhXa46DkDQ==",
   "success": true,
-  "projectFilePath": "C:\\Dev\\cursoDOTNET\\CSFundamentos1\\NullableTypes\\NullableTypes.csproj",
+  "projectFilePath": "C:\\Dev\\CursoDotNet\\CSFundamentos1\\NullableTypes\\NullableTypes.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

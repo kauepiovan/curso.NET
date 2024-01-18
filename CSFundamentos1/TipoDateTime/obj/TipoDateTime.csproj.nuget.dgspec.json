@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Dev\\cursoDOTNET\\CSFundamentos1\\TipoDateTime\\TipoDateTime.csproj": {}
+    "C:\\Dev\\CursoDotNet\\CSFundamentos1\\TipoDateTime\\TipoDateTime.csproj": {}
   },
   "projects": {
-    "C:\\Dev\\cursoDOTNET\\CSFundamentos1\\TipoDateTime\\TipoDateTime.csproj": {
+    "C:\\Dev\\CursoDotNet\\CSFundamentos1\\TipoDateTime\\TipoDateTime.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dev\\cursoDOTNET\\CSFundamentos1\\TipoDateTime\\TipoDateTime.csproj",
+        "projectUniqueName": "C:\\Dev\\CursoDotNet\\CSFundamentos1\\TipoDateTime\\TipoDateTime.csproj",
         "projectName": "TipoDateTime",
-        "projectPath": "C:\\Dev\\cursoDOTNET\\CSFundamentos1\\TipoDateTime\\TipoDateTime.csproj",
+        "projectPath": "C:\\Dev\\CursoDotNet\\CSFundamentos1\\TipoDateTime\\TipoDateTime.csproj",
         "packagesPath": "C:\\Users\\Kaue\\.nuget\\packages\\",
-        "outputPath": "C:\\Dev\\cursoDOTNET\\CSFundamentos1\\TipoDateTime\\obj\\",
+        "outputPath": "C:\\Dev\\CursoDotNet\\CSFundamentos1\\TipoDateTime\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Dev\\cursoDOTNET\\CSFundamentos1\\OperadoresUniariosTernarios\\OperadoresUniariosTernarios.csproj": {}
+    "C:\\Dev\\CursoDotNet\\CSFundamentos1\\OperadoresUniariosTernarios\\OperadoresUniariosTernarios.csproj": {}
   },
   "projects": {
-    "C:\\Dev\\cursoDOTNET\\CSFundamentos1\\OperadoresUniariosTernarios\\OperadoresUniariosTernarios.csproj": {
+    "C:\\Dev\\CursoDotNet\\CSFundamentos1\\OperadoresUniariosTernarios\\OperadoresUniariosTernarios.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dev\\cursoDOTNET\\CSFundamentos1\\OperadoresUniariosTernarios\\OperadoresUniariosTernarios.csproj",
+        "projectUniqueName": "C:\\Dev\\CursoDotNet\\CSFundamentos1\\OperadoresUniariosTernarios\\OperadoresUniariosTernarios.csproj",
         "projectName": "OperadoresUniariosTernarios",
-        "projectPath": "C:\\Dev\\cursoDOTNET\\CSFundamentos1\\OperadoresUniariosTernarios\\OperadoresUniariosTernarios.csproj",
+        "projectPath": "C:\\Dev\\CursoDotNet\\CSFundamentos1\\OperadoresUniariosTernarios\\OperadoresUniariosTernarios.csproj",
         "packagesPath": "C:\\Users\\Kaue\\.nuget\\packages\\",
-        "outputPath": "C:\\Dev\\cursoDOTNET\\CSFundamentos1\\OperadoresUniariosTernarios\\obj\\",
+        "outputPath": "C:\\Dev\\CursoDotNet\\CSFundamentos1\\OperadoresUniariosTernarios\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

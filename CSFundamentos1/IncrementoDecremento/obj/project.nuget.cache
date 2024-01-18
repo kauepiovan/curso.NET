@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sJ77DDchP8snowBrt1rji+hTHt5pLkfgmY7m8qVts0OpCQ26O2kJsZIA6M/yO53h/L+mQ/kOyabMgh2zS3MXsg==",
+  "dgSpecHash": "twDpIWxxhGUCsbIWPenY4DoGOunza6Z6XS/YbbN8XFTRL+GKai+dKm/P+wcv+KMqC2jEz/eS5iZQUP4NjVGeRg==",
   "success": true,
-  "projectFilePath": "C:\\Dev\\cursoDOTNET\\CSFundamentos1\\IncrementoDecremento\\IncrementoDecremento.csproj",
+  "projectFilePath": "C:\\Dev\\CursoDotNet\\CSFundamentos1\\IncrementoDecremento\\IncrementoDecremento.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

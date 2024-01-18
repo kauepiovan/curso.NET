@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8LWTH3gSMaCGYCyH9ph3nPF73nbdJlicAE5Eyuw4h/GddtqDivREAFOC1dZfqij2Z6bB+N/1PozAfW4ycQDaCQ==",
+  "dgSpecHash": "29/g5zyMo1QN+oEAedAOmKaewKNEs10dHH+unzigAbf1xzh1CApkkhAHubV2yJetytHk50vJOmsmdIjEG0oDZg==",
   "success": true,
-  "projectFilePath": "C:\\Dev\\cursoDOTNET\\CSFundamentos1\\OrdemDePrecedencia\\OrdemDePrecedencia.csproj",
+  "projectFilePath": "C:\\Dev\\CursoDotNet\\CSFundamentos1\\OrdemDePrecedencia\\OrdemDePrecedencia.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
