@@ -1,0 +1,15 @@
+C:\Dev\CursoDotNet\ClassesMetodos\ClassesObjetos\bin\Debug\net8.0\ClassesObjetos.exe
+C:\Dev\CursoDotNet\ClassesMetodos\ClassesObjetos\bin\Debug\net8.0\ClassesObjetos.deps.json
+C:\Dev\CursoDotNet\ClassesMetodos\ClassesObjetos\bin\Debug\net8.0\ClassesObjetos.runtimeconfig.json
+C:\Dev\CursoDotNet\ClassesMetodos\ClassesObjetos\bin\Debug\net8.0\ClassesObjetos.dll
+C:\Dev\CursoDotNet\ClassesMetodos\ClassesObjetos\bin\Debug\net8.0\ClassesObjetos.pdb
+C:\Dev\CursoDotNet\ClassesMetodos\ClassesObjetos\obj\Debug\net8.0\ClassesObjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\CursoDotNet\ClassesMetodos\ClassesObjetos\obj\Debug\net8.0\ClassesObjetos.AssemblyInfoInputs.cache
+C:\Dev\CursoDotNet\ClassesMetodos\ClassesObjetos\obj\Debug\net8.0\ClassesObjetos.AssemblyInfo.cs
+C:\Dev\CursoDotNet\ClassesMetodos\ClassesObjetos\obj\Debug\net8.0\ClassesObjetos.csproj.CoreCompileInputs.cache
+C:\Dev\CursoDotNet\ClassesMetodos\ClassesObjetos\obj\Debug\net8.0\ClassesObjetos.sourcelink.json
+C:\Dev\CursoDotNet\ClassesMetodos\ClassesObjetos\obj\Debug\net8.0\ClassesObjetos.dll
+C:\Dev\CursoDotNet\ClassesMetodos\ClassesObjetos\obj\Debug\net8.0\refint\ClassesObjetos.dll
+C:\Dev\CursoDotNet\ClassesMetodos\ClassesObjetos\obj\Debug\net8.0\ClassesObjetos.pdb
+C:\Dev\CursoDotNet\ClassesMetodos\ClassesObjetos\obj\Debug\net8.0\ClassesObjetos.genruntimeconfig.cache
+C:\Dev\CursoDotNet\ClassesMetodos\ClassesObjetos\obj\Debug\net8.0\ref\ClassesObjetos.dll
