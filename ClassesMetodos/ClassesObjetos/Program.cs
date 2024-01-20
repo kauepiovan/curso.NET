@@ -1,4 +1,4 @@
-﻿// Classes e metodos
+﻿// classes e Objetos
 
 Pessoa p1 = new Pessoa();
 p1.Nome = "joao";
@@ -11,7 +11,7 @@ Pessoa p2 = new Pessoa();
 p2.Nome = "maria";
 p2.Idade = 22;
 p2.Sexo = "Feminino";
-
+System.Console.WriteLine("");
 Console.WriteLine($"{p2.Nome}, ${p2.Idade}, {p2.Sexo}");
 
 class Pessoa
