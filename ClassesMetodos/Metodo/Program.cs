@@ -1,30 +1,18 @@
-﻿// metodos
-MinhaClasse minhaClasse = new();
+﻿using Metodo;
 
-minhaClasse.Saudacao("joão", DateTime.Now.ToShortDateString());
+var aluno = new Aluno();
 
-// Classes e metodos
+Console.Write("Nome: ");
+aluno.Nome = Console.ReadLine();
 
-class MinhaClasse
-{
-    public void Saudacao(string nome, string data)
-    {
-        Console.WriteLine(nome);
-        Console.WriteLine(data);
-    }
-}
+Console.Write("Idade: ");
+aluno.Idade = Convert.ToInt32(Console.ReadLine());
 
+Console.Write("Sexo: ");
+aluno.Sexo = Console.ReadLine();
 
-// class MinhaClasse
-// {
-//     public void Saudacao()
-//     {
-//         Console.WriteLine("Seja bem vindo");
-//         ExibirDataAtual();
-//     }
+Console.Write("Aprovado (S)im (N)ão: ");
+aluno.Aprovado = Console.ReadLine();
 
-//     public void ExibirDataAtual()
-//     {
-//         Console.WriteLine(DateTime.Now.ToShortDateString());
-//     }
-// }
+Curso curso = new();
+curso.Resultado(aluno.Nome, aluno.Idade, aluno.Sexo, aluno.Aprovado);
