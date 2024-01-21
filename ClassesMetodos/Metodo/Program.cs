@@ -1,18 +1,30 @@
 ﻿// metodos
+MinhaClasse minhaClasse = new();
 
-MinhaClasse minhaClasse = new MinhaClasse();
-minhaClasse.Saudacao();
+minhaClasse.Saudacao("joão", DateTime.Now.ToShortDateString());
+
+// Classes e metodos
 
 class MinhaClasse
 {
-    public void Saudacao()
+    public void Saudacao(string nome, string data)
     {
-        Console.WriteLine("Seja bem vindo");
-        ExibirDataAtual();
-    }
-
-    public void ExibirDataAtual()
-    {
-        Console.WriteLine(DateTime.Now.ToShortDateString());
+        Console.WriteLine(nome);
+        Console.WriteLine(data);
     }
 }
+
+
+// class MinhaClasse
+// {
+//     public void Saudacao()
+//     {
+//         Console.WriteLine("Seja bem vindo");
+//         ExibirDataAtual();
+//     }
+
+//     public void ExibirDataAtual()
+//     {
+//         Console.WriteLine(DateTime.Now.ToShortDateString());
+//     }
+// }

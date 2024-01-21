@@ -2,14 +2,11 @@
 for (int i1 = 10; i1 <= 20; i1++)
 {
     if (i1 == 16)
-    {
         continue;
-    }
-
     if (i1 % 2 == 0)
-    {
         Console.WriteLine(i1);
-    }
+
+
 
 }
 
