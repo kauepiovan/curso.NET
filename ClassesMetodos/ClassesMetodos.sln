@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metodo", "Metodo\Metodo.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Construtores", "Construtores\Construtores.csproj", "{4FC56111-F4F4-45A5-9038-A012C9F825B3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metodo01", "Metodo01\Metodo01.csproj", "{F776CD2F-20AD-426C-A87C-593FA102F70C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{4FC56111-F4F4-45A5-9038-A012C9F825B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4FC56111-F4F4-45A5-9038-A012C9F825B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4FC56111-F4F4-45A5-9038-A012C9F825B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F776CD2F-20AD-426C-A87C-593FA102F70C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F776CD2F-20AD-426C-A87C-593FA102F70C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F776CD2F-20AD-426C-A87C-593FA102F70C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F776CD2F-20AD-426C-A87C-593FA102F70C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

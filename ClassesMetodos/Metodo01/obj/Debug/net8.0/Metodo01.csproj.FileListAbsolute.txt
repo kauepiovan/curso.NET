@@ -1,0 +1,15 @@
+C:\Dev\CursoDotNet\ClassesMetodos\Metodo01\bin\Debug\net8.0\Metodo01.exe
+C:\Dev\CursoDotNet\ClassesMetodos\Metodo01\bin\Debug\net8.0\Metodo01.deps.json
+C:\Dev\CursoDotNet\ClassesMetodos\Metodo01\bin\Debug\net8.0\Metodo01.runtimeconfig.json
+C:\Dev\CursoDotNet\ClassesMetodos\Metodo01\bin\Debug\net8.0\Metodo01.dll
+C:\Dev\CursoDotNet\ClassesMetodos\Metodo01\bin\Debug\net8.0\Metodo01.pdb
+C:\Dev\CursoDotNet\ClassesMetodos\Metodo01\obj\Debug\net8.0\Metodo01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\CursoDotNet\ClassesMetodos\Metodo01\obj\Debug\net8.0\Metodo01.AssemblyInfoInputs.cache
+C:\Dev\CursoDotNet\ClassesMetodos\Metodo01\obj\Debug\net8.0\Metodo01.AssemblyInfo.cs
+C:\Dev\CursoDotNet\ClassesMetodos\Metodo01\obj\Debug\net8.0\Metodo01.csproj.CoreCompileInputs.cache
+C:\Dev\CursoDotNet\ClassesMetodos\Metodo01\obj\Debug\net8.0\Metodo01.sourcelink.json
+C:\Dev\CursoDotNet\ClassesMetodos\Metodo01\obj\Debug\net8.0\Metodo01.dll
+C:\Dev\CursoDotNet\ClassesMetodos\Metodo01\obj\Debug\net8.0\refint\Metodo01.dll
+C:\Dev\CursoDotNet\ClassesMetodos\Metodo01\obj\Debug\net8.0\Metodo01.pdb
+C:\Dev\CursoDotNet\ClassesMetodos\Metodo01\obj\Debug\net8.0\Metodo01.genruntimeconfig.cache
+C:\Dev\CursoDotNet\ClassesMetodos\Metodo01\obj\Debug\net8.0\ref\Metodo01.dll
