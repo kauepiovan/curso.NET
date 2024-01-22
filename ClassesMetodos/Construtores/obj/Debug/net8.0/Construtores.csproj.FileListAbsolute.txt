@@ -1,0 +1,15 @@
+C:\Dev\CursoDotNet\ClassesMetodos\Construtores\bin\Debug\net8.0\Construtores.exe
+C:\Dev\CursoDotNet\ClassesMetodos\Construtores\bin\Debug\net8.0\Construtores.deps.json
+C:\Dev\CursoDotNet\ClassesMetodos\Construtores\bin\Debug\net8.0\Construtores.runtimeconfig.json
+C:\Dev\CursoDotNet\ClassesMetodos\Construtores\bin\Debug\net8.0\Construtores.dll
+C:\Dev\CursoDotNet\ClassesMetodos\Construtores\bin\Debug\net8.0\Construtores.pdb
+C:\Dev\CursoDotNet\ClassesMetodos\Construtores\obj\Debug\net8.0\Construtores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\CursoDotNet\ClassesMetodos\Construtores\obj\Debug\net8.0\Construtores.AssemblyInfoInputs.cache
+C:\Dev\CursoDotNet\ClassesMetodos\Construtores\obj\Debug\net8.0\Construtores.AssemblyInfo.cs
+C:\Dev\CursoDotNet\ClassesMetodos\Construtores\obj\Debug\net8.0\Construtores.csproj.CoreCompileInputs.cache
+C:\Dev\CursoDotNet\ClassesMetodos\Construtores\obj\Debug\net8.0\Construtores.sourcelink.json
+C:\Dev\CursoDotNet\ClassesMetodos\Construtores\obj\Debug\net8.0\Construtores.dll
+C:\Dev\CursoDotNet\ClassesMetodos\Construtores\obj\Debug\net8.0\refint\Construtores.dll
+C:\Dev\CursoDotNet\ClassesMetodos\Construtores\obj\Debug\net8.0\Construtores.pdb
+C:\Dev\CursoDotNet\ClassesMetodos\Construtores\obj\Debug\net8.0\Construtores.genruntimeconfig.cache
+C:\Dev\CursoDotNet\ClassesMetodos\Construtores\obj\Debug\net8.0\ref\Construtores.dll
