@@ -1,16 +1,16 @@
 ﻿// construtores I
 
-// Aluno aluno = new Aluno();
+Aluno aluno = new Aluno();
 
-// Console.WriteLine(aluno.Nome == null ? "null" : aluno.Nome);
-// Console.WriteLine(aluno.Idade);
-// Console.WriteLine(aluno.Sexo == null ? "null" : aluno.Sexo);
-// Console.WriteLine(aluno.Aprovado == null ? "null" : aluno.Aprovado);
+Console.WriteLine(aluno.Nome == null ? "null" : aluno.Nome);
+Console.WriteLine(aluno.Idade);
+Console.WriteLine(aluno.Sexo == null ? "null" : aluno.Sexo);
+Console.WriteLine(aluno.Aprovado == null ? "null" : aluno.Aprovado);
 
 var cliente = new Cliente(null, 24);
 
-// Console.WriteLine(cliente.Nome);
-// Console.WriteLine(cliente.Idade);
+Console.WriteLine(cliente.Nome);
+Console.WriteLine(cliente.Idade);
 
 var teste = new Teste();
 // teste.Num1 = 10;

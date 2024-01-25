@@ -41,7 +41,6 @@ var carro2 = new Carro("SUV", "Ford", "EcoSport", 2018, 120);
 carro1.Acelerar(carro1.Marca);
 carro2.Acelerar(carro2.Marca);
 
-
 public class Carro
 {
     public string? Modelo;
