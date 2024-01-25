@@ -1,0 +1,15 @@
+C:\dev\cursodotnet\ClassesMetodos\Parametros\bin\Debug\net8.0\Parametros.exe
+C:\dev\cursodotnet\ClassesMetodos\Parametros\bin\Debug\net8.0\Parametros.deps.json
+C:\dev\cursodotnet\ClassesMetodos\Parametros\bin\Debug\net8.0\Parametros.runtimeconfig.json
+C:\dev\cursodotnet\ClassesMetodos\Parametros\bin\Debug\net8.0\Parametros.dll
+C:\dev\cursodotnet\ClassesMetodos\Parametros\bin\Debug\net8.0\Parametros.pdb
+C:\dev\cursodotnet\ClassesMetodos\Parametros\obj\Debug\net8.0\Parametros.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\cursodotnet\ClassesMetodos\Parametros\obj\Debug\net8.0\Parametros.AssemblyInfoInputs.cache
+C:\dev\cursodotnet\ClassesMetodos\Parametros\obj\Debug\net8.0\Parametros.AssemblyInfo.cs
+C:\dev\cursodotnet\ClassesMetodos\Parametros\obj\Debug\net8.0\Parametros.csproj.CoreCompileInputs.cache
+C:\dev\cursodotnet\ClassesMetodos\Parametros\obj\Debug\net8.0\Parametros.sourcelink.json
+C:\dev\cursodotnet\ClassesMetodos\Parametros\obj\Debug\net8.0\Parametros.dll
+C:\dev\cursodotnet\ClassesMetodos\Parametros\obj\Debug\net8.0\refint\Parametros.dll
+C:\dev\cursodotnet\ClassesMetodos\Parametros\obj\Debug\net8.0\Parametros.pdb
+C:\dev\cursodotnet\ClassesMetodos\Parametros\obj\Debug\net8.0\Parametros.genruntimeconfig.cache
+C:\dev\cursodotnet\ClassesMetodos\Parametros\obj\Debug\net8.0\ref\Parametros.dll
