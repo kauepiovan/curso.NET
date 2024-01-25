@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sobrecarga")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b10f5041bf2d060f32a9493b6e1ae7f55bbc2185")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sobrecarga")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sobrecarga")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Dev\\CursoDotNet\\Exercicios\\Ex009\\Ex009.csproj": {}
+    "C:\\dev\\cursodotnet\\Exercicios\\Ex009\\Ex009.csproj": {}
   },
   "projects": {
-    "C:\\Dev\\CursoDotNet\\Exercicios\\Ex009\\Ex009.csproj": {
+    "C:\\dev\\cursodotnet\\Exercicios\\Ex009\\Ex009.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dev\\CursoDotNet\\Exercicios\\Ex009\\Ex009.csproj",
+        "projectUniqueName": "C:\\dev\\cursodotnet\\Exercicios\\Ex009\\Ex009.csproj",
         "projectName": "Ex009",
-        "projectPath": "C:\\Dev\\CursoDotNet\\Exercicios\\Ex009\\Ex009.csproj",
+        "projectPath": "C:\\dev\\cursodotnet\\Exercicios\\Ex009\\Ex009.csproj",
         "packagesPath": "C:\\Users\\Kaue\\.nuget\\packages\\",
-        "outputPath": "C:\\Dev\\CursoDotNet\\Exercicios\\Ex009\\obj\\",
+        "outputPath": "C:\\dev\\cursodotnet\\Exercicios\\Ex009\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
