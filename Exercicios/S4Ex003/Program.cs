@@ -17,12 +17,12 @@ public class Calcular
     {
         numero += 3;
         Console.WriteLine($"valor da variavel dentro da funcao {numero}");
-        return numero; 
+        return numero;
     }
     public int AumentarPotencia(ref int numero)
     {
         numero += 5;
         Console.WriteLine($"valor da variavel dentro da funcao {numero}");
-        return numero; 
+        return numero;
     }
 }

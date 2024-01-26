@@ -18,7 +18,6 @@ public class Cliente
         Idade = idade;
         Renda = renda;
     }
-
 }
 
 public class Cadastro
