@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Estaticos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9197c7d98f46277d7f63355061ae6329a44dfe01")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6673f1fee46b96ebba422401efcd9802fee78ecc")]
 [assembly: System.Reflection.AssemblyProductAttribute("Estaticos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Estaticos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
