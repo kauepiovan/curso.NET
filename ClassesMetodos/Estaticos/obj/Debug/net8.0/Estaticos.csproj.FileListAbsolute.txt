@@ -1,0 +1,15 @@
+C:\dev\cursodotnet\ClassesMetodos\Estaticos\bin\Debug\net8.0\Estaticos.exe
+C:\dev\cursodotnet\ClassesMetodos\Estaticos\bin\Debug\net8.0\Estaticos.deps.json
+C:\dev\cursodotnet\ClassesMetodos\Estaticos\bin\Debug\net8.0\Estaticos.runtimeconfig.json
+C:\dev\cursodotnet\ClassesMetodos\Estaticos\bin\Debug\net8.0\Estaticos.dll
+C:\dev\cursodotnet\ClassesMetodos\Estaticos\bin\Debug\net8.0\Estaticos.pdb
+C:\dev\cursodotnet\ClassesMetodos\Estaticos\obj\Debug\net8.0\Estaticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\cursodotnet\ClassesMetodos\Estaticos\obj\Debug\net8.0\Estaticos.AssemblyInfoInputs.cache
+C:\dev\cursodotnet\ClassesMetodos\Estaticos\obj\Debug\net8.0\Estaticos.AssemblyInfo.cs
+C:\dev\cursodotnet\ClassesMetodos\Estaticos\obj\Debug\net8.0\Estaticos.csproj.CoreCompileInputs.cache
+C:\dev\cursodotnet\ClassesMetodos\Estaticos\obj\Debug\net8.0\Estaticos.sourcelink.json
+C:\dev\cursodotnet\ClassesMetodos\Estaticos\obj\Debug\net8.0\Estaticos.dll
+C:\dev\cursodotnet\ClassesMetodos\Estaticos\obj\Debug\net8.0\refint\Estaticos.dll
+C:\dev\cursodotnet\ClassesMetodos\Estaticos\obj\Debug\net8.0\Estaticos.pdb
+C:\dev\cursodotnet\ClassesMetodos\Estaticos\obj\Debug\net8.0\Estaticos.genruntimeconfig.cache
+C:\dev\cursodotnet\ClassesMetodos\Estaticos\obj\Debug\net8.0\ref\Estaticos.dll
