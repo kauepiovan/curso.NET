@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\cursodotnet\\ClassesMetodos\\Parametros\\Parametros.csproj": {}
+    "C:\\Dev\\CursoDotNet\\ClassesMetodos\\Parametros\\Parametros.csproj": {}
   },
   "projects": {
-    "C:\\dev\\cursodotnet\\ClassesMetodos\\Parametros\\Parametros.csproj": {
+    "C:\\Dev\\CursoDotNet\\ClassesMetodos\\Parametros\\Parametros.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\cursodotnet\\ClassesMetodos\\Parametros\\Parametros.csproj",
+        "projectUniqueName": "C:\\Dev\\CursoDotNet\\ClassesMetodos\\Parametros\\Parametros.csproj",
         "projectName": "Parametros",
-        "projectPath": "C:\\dev\\cursodotnet\\ClassesMetodos\\Parametros\\Parametros.csproj",
+        "projectPath": "C:\\Dev\\CursoDotNet\\ClassesMetodos\\Parametros\\Parametros.csproj",
         "packagesPath": "C:\\Users\\Kaue\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\cursodotnet\\ClassesMetodos\\Parametros\\obj\\",
+        "outputPath": "C:\\Dev\\CursoDotNet\\ClassesMetodos\\Parametros\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

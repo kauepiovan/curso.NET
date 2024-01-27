@@ -1,5 +1,5 @@
 ﻿// metodos estaticos
-using System.Formats.Asn1;
+using System.Diagnostics;
 
 var soma = Calculadora.Soma;
 var subtrair = Calculadora.Sub;
@@ -14,10 +14,10 @@ Console.WriteLine(Calculadora.Div(5, 5));
 // metodos com a modificador static nao precisam ser inicializados
 // para serem chamados.
 
-Console.WriteLine(soma(2,2));
-Console.WriteLine(subtrair(5,10));
-Console.WriteLine(multiplicar(2,8));
-Console.WriteLine(dividir(30,15));
+Console.WriteLine(soma(2, 2));
+Console.WriteLine(subtrair(5, 10));
+Console.WriteLine(multiplicar(2, 8));
+Console.WriteLine(dividir(30, 15));
 
 Console.WriteLine("=================== campos estaticos ==================================");
 // campos estaticos
@@ -45,11 +45,21 @@ ContaCorrente.Juros = 4.25f;
 Console.WriteLine($"\nCliente: {c1.Nome} - Juros Anula: {c1.JurosAnual()}");
 Console.WriteLine($"\nCliente: {c2.Nome} - Juros Anula: {c2.JurosAnual()}");
 
+// Construtor estatico
+Console.WriteLine("\n================= Construtores Estaticos ======================");
+
+// Invoca o construtor parametrizado e o estatico
+Pessoa p1 = new(19, "Maria");
+
+Console.WriteLine(p1.Nome + " - " + p1.Idade);
+
+
 public class A // campos estaticos
 {
     public int x;
     public static int y; // criacao do campo estatico
 }
+
 public class Calculadora
 {
     public static int Soma(int num1, int num2)
@@ -71,6 +81,7 @@ public class Calculadora
 }
 
 public class ContaCorrente // exemplo de utilizacao do campo estatico
+
 {
     public int Conta;
     public string? Nome;
@@ -80,4 +91,27 @@ public class ContaCorrente // exemplo de utilizacao do campo estatico
     {
         return Juros * 12;
     }
+}
+
+public class Pessoa
+{
+    public static int IdadeMinima;
+    public int Idade { get; set; }
+    public string Nome { get; set; } = string.Empty;
+
+    public Pessoa(int idade, string nome)
+    {
+        Console.WriteLine("\nExecutando construtor parametrizado");
+        Idade = idade;
+        Nome = nome;
+    }
+    public Pessoa()
+    { }
+    static Pessoa()
+    {
+        Console.WriteLine("\nExecutando Construtor Estatico...");
+        Console.WriteLine("\nInicializando o campo IdadeMinima");
+        IdadeMinima = 18;
+    }
+
 }

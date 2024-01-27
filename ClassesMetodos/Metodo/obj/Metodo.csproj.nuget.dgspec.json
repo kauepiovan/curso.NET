@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\cursodotnet\\ClassesMetodos\\Metodo\\Metodo.csproj": {}
+    "C:\\Dev\\CursoDotNet\\ClassesMetodos\\Metodo\\Metodo.csproj": {}
   },
   "projects": {
-    "C:\\dev\\cursodotnet\\ClassesMetodos\\Metodo\\Metodo.csproj": {
+    "C:\\Dev\\CursoDotNet\\ClassesMetodos\\Metodo\\Metodo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\cursodotnet\\ClassesMetodos\\Metodo\\Metodo.csproj",
+        "projectUniqueName": "C:\\Dev\\CursoDotNet\\ClassesMetodos\\Metodo\\Metodo.csproj",
         "projectName": "Metodo",
-        "projectPath": "C:\\dev\\cursodotnet\\ClassesMetodos\\Metodo\\Metodo.csproj",
+        "projectPath": "C:\\Dev\\CursoDotNet\\ClassesMetodos\\Metodo\\Metodo.csproj",
         "packagesPath": "C:\\Users\\Kaue\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\cursodotnet\\ClassesMetodos\\Metodo\\obj\\",
+        "outputPath": "C:\\Dev\\CursoDotNet\\ClassesMetodos\\Metodo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
