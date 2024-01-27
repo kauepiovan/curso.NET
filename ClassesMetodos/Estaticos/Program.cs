@@ -1,5 +1,4 @@
 ﻿// metodos estaticos
-using System.Diagnostics;
 
 var soma = Calculadora.Soma;
 var subtrair = Calculadora.Sub;
@@ -47,11 +46,16 @@ Console.WriteLine($"\nCliente: {c2.Nome} - Juros Anula: {c2.JurosAnual()}");
 
 // Construtor estatico
 Console.WriteLine("\n================= Construtores Estaticos ======================");
+// O construtor estatico somente eh inicializado na primeira vez que a Classe pessoa
+// eh inicializada como objeto. Depois ele nao eh mais chamado.
 
 // Invoca o construtor parametrizado e o estatico
 Pessoa p1 = new(19, "Maria");
-
 Console.WriteLine(p1.Nome + " - " + p1.Idade);
+
+// note que o construtor estatico nao sera chamado. Somente o parametrizado.
+Pessoa p2 = new(20, "Manoel");
+Console.WriteLine(p2.Nome + " - " + p2.Idade);
 
 
 public class A // campos estaticos
