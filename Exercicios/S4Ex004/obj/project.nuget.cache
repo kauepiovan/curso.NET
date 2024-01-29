@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "70vA0t1RgLaXZyEIKGQMVwCS5Ml3DtuisVmLu4j491290qySbrsrN9DzU0SfsY+Rzw3jF/tB3cRjR+g4TbT3MQ==",
+  "dgSpecHash": "42VJcyBancQqWVR4JQL54xy600fn3dvC2NEw7ru84Z5vRoPpkOHAK5Mug6p5PDWvNeCkttHRU18tiMMPsu9RjQ==",
   "success": true,
-  "projectFilePath": "C:\\dev\\cursodotnet\\Exercicios\\S4Ex004\\S4Ex004.csproj",
+  "projectFilePath": "C:\\dev\\CursoDotNet\\Exercicios\\S4Ex004\\S4Ex004.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

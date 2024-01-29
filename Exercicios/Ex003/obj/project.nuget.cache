@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UFe0MpDo7ysWVUWHeeFFtJJlTsv1unoKEugGUvPyp8IAjsxz5wmrjvw4jUqwvPbt6C+BpQt578y0xSnjTgP0OA==",
+  "dgSpecHash": "DEOL+pLjVEL0c16o3HafzI78z5LZLqgVkSQq9o5CYjYwpyc42r/iXmR92z5ZNFyA4gCrl7DDbohC1sdxh5FygQ==",
   "success": true,
-  "projectFilePath": "C:\\dev\\cursodotnet\\Exercicios\\Ex003\\Ex003.csproj",
+  "projectFilePath": "C:\\dev\\CursoDotNet\\Exercicios\\Ex003\\Ex003.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
