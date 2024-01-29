@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Dev\\CursoDotNet\\ClassesMetodos\\Sobrecarga\\Sobrecarga.csproj": {}
+    "C:\\dev\\CursoDotNet\\ClassesMetodos\\Sobrecarga\\Sobrecarga.csproj": {}
   },
   "projects": {
-    "C:\\Dev\\CursoDotNet\\ClassesMetodos\\Sobrecarga\\Sobrecarga.csproj": {
+    "C:\\dev\\CursoDotNet\\ClassesMetodos\\Sobrecarga\\Sobrecarga.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dev\\CursoDotNet\\ClassesMetodos\\Sobrecarga\\Sobrecarga.csproj",
+        "projectUniqueName": "C:\\dev\\CursoDotNet\\ClassesMetodos\\Sobrecarga\\Sobrecarga.csproj",
         "projectName": "Sobrecarga",
-        "projectPath": "C:\\Dev\\CursoDotNet\\ClassesMetodos\\Sobrecarga\\Sobrecarga.csproj",
+        "projectPath": "C:\\dev\\CursoDotNet\\ClassesMetodos\\Sobrecarga\\Sobrecarga.csproj",
         "packagesPath": "C:\\Users\\Kaue\\.nuget\\packages\\",
-        "outputPath": "C:\\Dev\\CursoDotNet\\ClassesMetodos\\Sobrecarga\\obj\\",
+        "outputPath": "C:\\dev\\CursoDotNet\\ClassesMetodos\\Sobrecarga\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

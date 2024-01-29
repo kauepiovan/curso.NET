@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "faqrNbQLA/DmZ9uYc04EwLIncBtxFsizTvP3SubDwlPnTMbWV80MuY+MK7MM0UbucES7ue3tFOe98/YlcDTE8A==",
+  "dgSpecHash": "A5lJFx8eCKKvdVVOuf1/eyE+7HVA+44EYuxf4euTGWKBeWhZ9V3FX/uJ7dYhuHX8ruDxzS+nrM/h0jk7F63wFA==",
   "success": true,
-  "projectFilePath": "C:\\Dev\\CursoDotNet\\ClassesMetodos\\Estaticos\\Estaticos.csproj",
+  "projectFilePath": "C:\\dev\\CursoDotNet\\ClassesMetodos\\Estaticos\\Estaticos.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

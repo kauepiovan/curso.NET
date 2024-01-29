@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HNYjBgueCAhei1Jy834XohhWjnO/AzohlAwSzy1i3rKi7piB2vtZWLJOXXgh6Wqv5ZUpowyB81DpNHTpdc1kdw==",
+  "dgSpecHash": "xsqllTSojVuIiaqsRhpkTPFHmgodQrvuAABYikMXmsVZNBAcECDxE5RY27mBMp/59Q2t/5GoQHTVdv5vCOrQ/w==",
   "success": true,
-  "projectFilePath": "C:\\Dev\\CursoDotNet\\ClassesMetodos\\Metodo\\Metodo.csproj",
+  "projectFilePath": "C:\\dev\\CursoDotNet\\ClassesMetodos\\Metodo\\Metodo.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

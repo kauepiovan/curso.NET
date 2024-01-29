@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Dev\\CursoDotNet\\ClassesMetodos\\Construtores\\Construtores.csproj": {}
+    "C:\\dev\\CursoDotNet\\ClassesMetodos\\Construtores\\Construtores.csproj": {}
   },
   "projects": {
-    "C:\\Dev\\CursoDotNet\\ClassesMetodos\\Construtores\\Construtores.csproj": {
+    "C:\\dev\\CursoDotNet\\ClassesMetodos\\Construtores\\Construtores.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dev\\CursoDotNet\\ClassesMetodos\\Construtores\\Construtores.csproj",
+        "projectUniqueName": "C:\\dev\\CursoDotNet\\ClassesMetodos\\Construtores\\Construtores.csproj",
         "projectName": "Construtores",
-        "projectPath": "C:\\Dev\\CursoDotNet\\ClassesMetodos\\Construtores\\Construtores.csproj",
+        "projectPath": "C:\\dev\\CursoDotNet\\ClassesMetodos\\Construtores\\Construtores.csproj",
         "packagesPath": "C:\\Users\\Kaue\\.nuget\\packages\\",
-        "outputPath": "C:\\Dev\\CursoDotNet\\ClassesMetodos\\Construtores\\obj\\",
+        "outputPath": "C:\\dev\\CursoDotNet\\ClassesMetodos\\Construtores\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

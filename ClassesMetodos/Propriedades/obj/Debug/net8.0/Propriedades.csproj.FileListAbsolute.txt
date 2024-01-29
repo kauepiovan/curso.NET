@@ -1,0 +1,15 @@
+C:\dev\CursoDotNet\ClassesMetodos\Propriedades\bin\Debug\net8.0\Propriedades.exe
+C:\dev\CursoDotNet\ClassesMetodos\Propriedades\bin\Debug\net8.0\Propriedades.deps.json
+C:\dev\CursoDotNet\ClassesMetodos\Propriedades\bin\Debug\net8.0\Propriedades.runtimeconfig.json
+C:\dev\CursoDotNet\ClassesMetodos\Propriedades\bin\Debug\net8.0\Propriedades.dll
+C:\dev\CursoDotNet\ClassesMetodos\Propriedades\bin\Debug\net8.0\Propriedades.pdb
+C:\dev\CursoDotNet\ClassesMetodos\Propriedades\obj\Debug\net8.0\Propriedades.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CursoDotNet\ClassesMetodos\Propriedades\obj\Debug\net8.0\Propriedades.AssemblyInfoInputs.cache
+C:\dev\CursoDotNet\ClassesMetodos\Propriedades\obj\Debug\net8.0\Propriedades.AssemblyInfo.cs
+C:\dev\CursoDotNet\ClassesMetodos\Propriedades\obj\Debug\net8.0\Propriedades.csproj.CoreCompileInputs.cache
+C:\dev\CursoDotNet\ClassesMetodos\Propriedades\obj\Debug\net8.0\Propriedades.sourcelink.json
+C:\dev\CursoDotNet\ClassesMetodos\Propriedades\obj\Debug\net8.0\Propriedades.dll
+C:\dev\CursoDotNet\ClassesMetodos\Propriedades\obj\Debug\net8.0\refint\Propriedades.dll
+C:\dev\CursoDotNet\ClassesMetodos\Propriedades\obj\Debug\net8.0\Propriedades.pdb
+C:\dev\CursoDotNet\ClassesMetodos\Propriedades\obj\Debug\net8.0\Propriedades.genruntimeconfig.cache
+C:\dev\CursoDotNet\ClassesMetodos\Propriedades\obj\Debug\net8.0\ref\Propriedades.dll

@@ -24,7 +24,7 @@ Console.ReadLine();
 
 public class Aluno
 {
-    public Aluno() 
+    public Aluno()
     {
     }
     public Aluno(string nome)
@@ -82,7 +82,7 @@ public class Teste
     }
 }
 
-public class Teste1 
+public class Teste1
 {
     public Teste1(int num1, int num2)
     {
