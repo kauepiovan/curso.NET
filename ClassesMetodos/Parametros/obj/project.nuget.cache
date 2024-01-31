@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cM4S5jfsMJHcEkszkVaxUmO57OTKRgArcdInj9bU5nsoJR9yxldA7ViZINq0d+331DaJIpIh95c2h/NUgB2vcQ==",
+  "dgSpecHash": "25RORKMe+bNlDnqmqWzqcBYwoMervncMz7WDs3TEXT8JQlHurZSQlMtaiZHzSEFL/jflx/HqgtIOoB9MXcGi+Q==",
   "success": true,
-  "projectFilePath": "C:\\dev\\CursoDotNet\\ClassesMetodos\\Parametros\\Parametros.csproj",
+  "projectFilePath": "C:\\dev\\cursodotnet\\ClassesMetodos\\Parametros\\Parametros.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

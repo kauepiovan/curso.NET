@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dK84t4SaMwe80v+8tiTRnISyJAKhPVZKfH8cPM90mwvsZYSWxsD5kvQZf/KuP+l6I0CT72epJp3XM/mLGf/MMg==",
+  "dgSpecHash": "kCd+CagllFZfucD8uNDnmBcBN3rss76Tt3IXRTdqPubZ5G5ByhIr0kz80RHtd0wrJGvZsXDRnBOzFAtZ7zlHgg==",
   "success": true,
-  "projectFilePath": "C:\\dev\\CursoDotNet\\ClassesMetodos\\Construtores\\Construtores.csproj",
+  "projectFilePath": "C:\\dev\\cursodotnet\\ClassesMetodos\\Construtores\\Construtores.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

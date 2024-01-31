@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\CursoDotNet\\ClassesMetodos\\ClassesObjetos\\ClassesObjetos.csproj": {}
+    "C:\\dev\\cursodotnet\\ClassesMetodos\\ClassesObjetos\\ClassesObjetos.csproj": {}
   },
   "projects": {
-    "C:\\dev\\CursoDotNet\\ClassesMetodos\\ClassesObjetos\\ClassesObjetos.csproj": {
+    "C:\\dev\\cursodotnet\\ClassesMetodos\\ClassesObjetos\\ClassesObjetos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\CursoDotNet\\ClassesMetodos\\ClassesObjetos\\ClassesObjetos.csproj",
+        "projectUniqueName": "C:\\dev\\cursodotnet\\ClassesMetodos\\ClassesObjetos\\ClassesObjetos.csproj",
         "projectName": "ClassesObjetos",
-        "projectPath": "C:\\dev\\CursoDotNet\\ClassesMetodos\\ClassesObjetos\\ClassesObjetos.csproj",
+        "projectPath": "C:\\dev\\cursodotnet\\ClassesMetodos\\ClassesObjetos\\ClassesObjetos.csproj",
         "packagesPath": "C:\\Users\\Kaue\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\CursoDotNet\\ClassesMetodos\\ClassesObjetos\\obj\\",
+        "outputPath": "C:\\dev\\cursodotnet\\ClassesMetodos\\ClassesObjetos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
