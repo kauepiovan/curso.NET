@@ -12,7 +12,7 @@ public class Produto
     private string? nome; // campo de apoio (private)
     public string? Nome
     {   // fazendo modficacoes para retornar o nome em maiusculas
-        get { return nome.ToUpper(); } // leitura
+        get { return nome?.ToUpper(); } // leitura
         set { nome = value; } // gravacao
     }
 
