@@ -1,0 +1,15 @@
+C:\dev\cursodotnet\Exercicios\S4Ex008\bin\Debug\net8.0\S4Ex008.exe
+C:\dev\cursodotnet\Exercicios\S4Ex008\bin\Debug\net8.0\S4Ex008.deps.json
+C:\dev\cursodotnet\Exercicios\S4Ex008\bin\Debug\net8.0\S4Ex008.runtimeconfig.json
+C:\dev\cursodotnet\Exercicios\S4Ex008\bin\Debug\net8.0\S4Ex008.dll
+C:\dev\cursodotnet\Exercicios\S4Ex008\bin\Debug\net8.0\S4Ex008.pdb
+C:\dev\cursodotnet\Exercicios\S4Ex008\obj\Debug\net8.0\S4Ex008.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\cursodotnet\Exercicios\S4Ex008\obj\Debug\net8.0\S4Ex008.AssemblyInfoInputs.cache
+C:\dev\cursodotnet\Exercicios\S4Ex008\obj\Debug\net8.0\S4Ex008.AssemblyInfo.cs
+C:\dev\cursodotnet\Exercicios\S4Ex008\obj\Debug\net8.0\S4Ex008.csproj.CoreCompileInputs.cache
+C:\dev\cursodotnet\Exercicios\S4Ex008\obj\Debug\net8.0\S4Ex008.sourcelink.json
+C:\dev\cursodotnet\Exercicios\S4Ex008\obj\Debug\net8.0\S4Ex008.dll
+C:\dev\cursodotnet\Exercicios\S4Ex008\obj\Debug\net8.0\refint\S4Ex008.dll
+C:\dev\cursodotnet\Exercicios\S4Ex008\obj\Debug\net8.0\S4Ex008.pdb
+C:\dev\cursodotnet\Exercicios\S4Ex008\obj\Debug\net8.0\S4Ex008.genruntimeconfig.cache
+C:\dev\cursodotnet\Exercicios\S4Ex008\obj\Debug\net8.0\ref\S4Ex008.dll
