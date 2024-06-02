@@ -1,0 +1,15 @@
+C:\Dev\CursoDotNet\Secao05\aula01\bin\Debug\net8.0\aula01.exe
+C:\Dev\CursoDotNet\Secao05\aula01\bin\Debug\net8.0\aula01.deps.json
+C:\Dev\CursoDotNet\Secao05\aula01\bin\Debug\net8.0\aula01.runtimeconfig.json
+C:\Dev\CursoDotNet\Secao05\aula01\bin\Debug\net8.0\aula01.dll
+C:\Dev\CursoDotNet\Secao05\aula01\bin\Debug\net8.0\aula01.pdb
+C:\Dev\CursoDotNet\Secao05\aula01\obj\Debug\net8.0\aula01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\CursoDotNet\Secao05\aula01\obj\Debug\net8.0\aula01.AssemblyInfoInputs.cache
+C:\Dev\CursoDotNet\Secao05\aula01\obj\Debug\net8.0\aula01.AssemblyInfo.cs
+C:\Dev\CursoDotNet\Secao05\aula01\obj\Debug\net8.0\aula01.csproj.CoreCompileInputs.cache
+C:\Dev\CursoDotNet\Secao05\aula01\obj\Debug\net8.0\aula01.sourcelink.json
+C:\Dev\CursoDotNet\Secao05\aula01\obj\Debug\net8.0\aula01.dll
+C:\Dev\CursoDotNet\Secao05\aula01\obj\Debug\net8.0\refint\aula01.dll
+C:\Dev\CursoDotNet\Secao05\aula01\obj\Debug\net8.0\aula01.pdb
+C:\Dev\CursoDotNet\Secao05\aula01\obj\Debug\net8.0\aula01.genruntimeconfig.cache
+C:\Dev\CursoDotNet\Secao05\aula01\obj\Debug\net8.0\ref\aula01.dll

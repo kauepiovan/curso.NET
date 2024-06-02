@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "j5wZJ3fnwmYx01AJAh2MRSQP1v6EUJ8r8+4j5cgJsi9qgC4UiegwVlpd88AX7zxeeJ/VzaMU/Pkw2gpQJuINEA==",
+  "dgSpecHash": "ERc7JCWXMtq1IPdVHFZvgsBSMII2bIKoOQjxUGHyFhamwdGY7CAZR8uSI85K3sqt3sU2Zo8SBE/WZAp93Vv/2w==",
   "success": true,
-  "projectFilePath": "C:\\dev\\cursodotnet\\ClassesMetodos\\Enum\\Enum.csproj",
+  "projectFilePath": "C:\\Dev\\CursoDotNet\\ClassesMetodos\\Enum\\Enum.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
